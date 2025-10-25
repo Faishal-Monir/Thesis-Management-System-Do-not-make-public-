@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_BASE_URL = 'https://thesis-management-system-do-not-make.onrender.com'; 
+const API_BASE_URL = 'https://thesis-management-system-do-not-make-ns05.onrender.com'; 
 // const API_BASE_URL = 'http://localhost:5005';
 
 
